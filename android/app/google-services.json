@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "231402208933",
+    "project_id": "payment-remainder-beff0",
+    "storage_bucket": "payment-remainder-beff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231402208933:android:dfce576f1971203481574c",
+        "android_client_info": {
+          "package_name": "com.example.payment_remind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkwVFV2hyEwGmlRfZtoBotQFGzigcw54I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231402208933:android:3f67ba02f2378aaf81574c",
+        "android_client_info": {
+          "package_name": "com.example.payment_reminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkwVFV2hyEwGmlRfZtoBotQFGzigcw54I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
